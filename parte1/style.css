@@ -1,0 +1,5 @@
+body h1 + p .especial {
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+}
