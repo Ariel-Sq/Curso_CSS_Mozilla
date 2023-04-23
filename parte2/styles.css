@@ -1,60 +1,35 @@
-* {
-    color: aliceblue;
-    margin: 0;
+body {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    border-color: aquamarine;
-    font-size: 50px;
-    padding: 5%;
+    color: hotpink;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 10px dotted purple;
 }
 
-a:link {
-    color: rgb:cornsilk ;
+h2 {
+    font-size: 1.5em;
 }
 
-a:visited {
-    color: rgb(rgb(132, 132, 173));
+.job-title {
+    color: #999999;
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    color: #fb6542;
 }
 
 a:hover {
-    color: aquamarine;
     text-decoration: none;
+    color: green;
 }
 
-.intro {
-    color:blue;
-    font-size: 25px;
-    background-color: aquamarine;
+ul {
+    padding: 30px;
+    background-color: #eeeeee;
+    border: 5px solid purple;
 }
 
-.alternativo {
-    color: black;
-}
-
-#parrafo {
-    color: white;
-    background-color: purple;
-    padding: 2%;
-
-}
-
-h1, h2, .intro {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: purple;
-}
-
-.especial {
-    color: blueviolet;
-}
-
-.outer {
-    border: 5px solid black;
-}
-
-.box {
-    padding: 10px;
-    width: calc(90% - 30px);
-    background-color: rebeccapurple;
-    color: white;
-}
