@@ -1,45 +1,8 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
+blockquote {
+    background-color: orange;
+    border: 2px solid blue;
+    
 }
 
-h1 {
-    color: hotpink;
-    font-size: 3em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    border-bottom: 5px solid purple;
-    padding-bottom: 2%;
-}
+        
 
-h2 {
-    font-size: 1.5em;
-}
-
-.job-title {
-    color: #ffffff;
-    font-weight: bold;
-    background-color: fuchsia;
-}
-
-a:link, a:visited {
-    color: #fb6542;
-}
-
-a:hover {
-    text-decoration: none;
-    color: green;
-}
-
-ul {
-    padding: 30px;
-    background-color: #eeeeee;
-    border: 5px solid purple;
-}
-
-p {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-li {
-    list-style: none;
-    text-align: right;
-}
