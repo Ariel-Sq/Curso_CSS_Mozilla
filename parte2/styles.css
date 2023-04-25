@@ -1,8 +1,14 @@
-blockquote {
-    background-color: orange;
-    border: 2px solid blue;
-    
+span {
+  background-color: yellow;
 }
 
-        
+strong,
+em {
+  color: rebeccapurple;
+}
+
+
+
+
+
 
